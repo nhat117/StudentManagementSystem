@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    margin: auto;
+    padding: 30px;
+}
+
+.form-ele{
+    margin: 0 4px;
+    /*justify-content: space-around;*/
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    opacity: 0.8;
+    color: red;
+}
